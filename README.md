@@ -3,7 +3,7 @@
 
 ***Libraries used:***
  - ***[HX711 v0.7.1](https://github.com/bogde/HX711)***
- - ***[Encoder v1.4.2](http://www.pjrc.com/teensy/td_libs_Encoder.html)***
+ - ***[Encoder v1.4.2](https://github.com/PaulStoffregen/Encoder)***
 
 ## Getting started
 1. Cloning this repository
