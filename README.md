@@ -1,9 +1,9 @@
 # arduino-testing-press
-[ArduinoC] Press for the study of the properties of various materials
+[ArduinoC] Press for the study of the properties of various materials.
 
-***Libraries used:***\
-***[HX711 v0.7.1](https://github.com/bogde/HX711)***\
-***[Encoder v1.4.2](http://www.pjrc.com/teensy/td_libs_Encoder.html)***
+***Libraries used:***
+ - ***[HX711 v0.7.1](https://github.com/bogde/HX711)***
+ - ***[Encoder v1.4.2](http://www.pjrc.com/teensy/td_libs_Encoder.html)***
 
 ## Getting started
 1. Cloning this repository
