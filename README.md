@@ -10,6 +10,13 @@
 2. [Installing used libraries](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries)
 3. Build **sketch/sketch.ino** in [Arduino IDE](https://github.com/arduino/arduino-ide/)
 
+## Schematic
+<p align="center">
+  <img src="images/scheme.jpg" width="90%" />
+  <br />
+  Electrical schematic
+</p>
+
 ## Pictures
 <p align="center">
   <img src="images/device.jpg" width="50%" />
